@@ -1,0 +1,27 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.image {
+  height: 200px;
+}
+.heading {
+  font-size: 22px;
+  margin-top: 20px;
+  color: #12022f;
+  font-family: 'Roboto';
+}
+.para {
+  font-size: 12px;
+  margin-top: 20px;
+  color: #616e7c;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
